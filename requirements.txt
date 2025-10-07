@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+flask-cors
+asgiref
+python-multipart
+numpy
+pydantic
